@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_Register:test_register.py:14 Opening Browser with NopCommerce
+[32mINFO    [0m Test_Register:test_register.py:17 Click on Register tab/link
+[32mINFO    [0m Test_Register:test_register.py:19 Getting Data from Excel sheet 
+[32mINFO    [0m Test_Register:test_register.py:31 Click on Gender
+[32mINFO    [0m Test_Register:test_register.py:33 Enter personal Info Akhil, Mangal, akhman@gmail.com, R.P.Business Solution,Pune
+[32mINFO    [0m Test_Register:test_register.py:36 Enter password and confirm Password
+[32mINFO    [0m Test_Register:test_register.py:38 Enter Register Button

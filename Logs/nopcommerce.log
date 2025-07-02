@@ -1,0 +1,102 @@
+2025-07-01 08:38:31,348 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 08:38:31,348 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 08:39:05,166 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 08:39:05,166 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 08:39:16,649 : Test_Register : test_register_01 : 19 : Getting Data from Excel sheet  
+2025-07-01 08:39:17,190 : Test_Register : test_register_01 : 30 : Click on Gender 
+2025-07-01 08:39:27,474 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 08:39:27,474 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 08:39:38,659 : Test_Register : test_register_01 : 19 : Getting Data from Excel sheet  
+2025-07-01 08:39:39,046 : Test_Register : test_register_01 : 30 : Click on Gender 
+2025-07-01 08:39:39,268 : Test_Register : test_register_01 : 32 : Enter personal Info Akhil, Mangal, akhman@gmail.com, R.P.Business Solution,Pune 
+2025-07-01 08:39:39,749 : Test_Register : test_register_01 : 35 : Enter password and confirm Password 
+2025-07-01 08:39:40,001 : Test_Register : test_register_01 : 37 : Enter Register Button 
+2025-07-01 08:46:58,778 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 08:46:58,780 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 08:47:09,926 : Test_Register : test_register_01 : 19 : Getting Data from Excel sheet  
+2025-07-01 08:47:10,675 : Test_Register : test_register_01 : 31 : Click on Gender 
+2025-07-01 08:47:19,342 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 08:47:19,343 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 08:47:30,467 : Test_Register : test_register_01 : 19 : Getting Data from Excel sheet  
+2025-07-01 08:47:31,164 : Test_Register : test_register_01 : 31 : Click on Gender 
+2025-07-01 08:47:39,213 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 08:47:39,213 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 08:47:50,340 : Test_Register : test_register_01 : 19 : Getting Data from Excel sheet  
+2025-07-01 08:47:50,678 : Test_Register : test_register_01 : 31 : Click on Gender 
+2025-07-01 08:48:09,766 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 08:48:09,767 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 08:48:30,724 : Test_Register : test_register_01 : 19 : Getting Data from Excel sheet  
+2025-07-01 08:48:30,989 : Test_Register : test_register_01 : 31 : Click on Gender 
+2025-07-01 08:48:31,107 : Test_Register : test_register_01 : 33 : Enter personal Info Akhil, Mangal, akhman@gmail.com, R.P.Business Solution,Pune 
+2025-07-01 08:48:31,478 : Test_Register : test_register_01 : 36 : Enter password and confirm Password 
+2025-07-01 08:48:31,630 : Test_Register : test_register_01 : 38 : Enter Register Button 
+2025-07-01 09:05:16,788 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 09:05:16,788 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 09:05:37,887 : Test_Register : test_register_01 : 19 : Getting Data from Excel sheet  
+2025-07-01 09:05:38,218 : Test_Register : test_register_01 : 31 : Click on Gender 
+2025-07-01 09:05:46,699 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 09:05:46,699 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 09:06:07,769 : Test_Register : test_register_01 : 19 : Getting Data from Excel sheet  
+2025-07-01 09:06:08,022 : Test_Register : test_register_01 : 31 : Click on Gender 
+2025-07-01 09:06:18,999 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 09:06:18,999 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 09:06:40,540 : Test_Register : test_register_01 : 19 : Getting Data from Excel sheet  
+2025-07-01 09:06:40,863 : Test_Register : test_register_01 : 31 : Click on Gender 
+2025-07-01 09:06:40,968 : Test_Register : test_register_01 : 33 : Enter personal Info Akhil, Mangal, akhman@gmail.com, R.P.Business Solution,Pune 
+2025-07-01 09:06:41,362 : Test_Register : test_register_01 : 36 : Enter password and confirm Password 
+2025-07-01 09:06:41,521 : Test_Register : test_register_01 : 38 : Enter Register Button 
+2025-07-01 09:06:47,245 : Test_Register : test_register_01 : 31 : Click on Gender 
+2025-07-01 09:08:57,205 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 09:08:57,205 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 09:09:18,307 : Test_Register : test_register_01 : 19 : Getting Data from Excel sheet  
+2025-07-01 09:09:18,559 : Test_Register : test_register_01 : 31 : Click on Gender 
+2025-07-01 09:09:59,756 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 09:09:59,756 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 09:10:21,190 : Test_Register : test_register_01 : 19 : Getting Data from Excel sheet  
+2025-07-01 09:10:21,458 : Test_Register : test_register_01 : 31 : Click on Gender 
+2025-07-01 09:20:23,840 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 09:20:23,840 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 09:20:44,957 : Test_Register : test_register_01 : 19 : Getting Data from Excel sheet  
+2025-07-01 09:20:45,224 : Test_Register : test_register_01 : 31 : Click on Gender 
+2025-07-01 09:23:34,682 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 09:23:34,682 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 09:23:55,949 : Test_Register : test_register_01 : 19 : Getting Data from Excel sheet  
+2025-07-01 09:23:56,214 : Test_Register : test_register_01 : 31 : Click on Gender 
+2025-07-01 09:26:19,251 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 09:26:19,252 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 09:26:40,634 : Test_Register : test_register_01 : 19 : Getting Data from Excel sheet  
+2025-07-01 09:26:40,891 : Test_Register : test_register_01 : 31 : Click on Gender 
+2025-07-01 09:27:01,317 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 09:27:01,318 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 09:27:14,816 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 09:27:14,817 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 09:44:07,778 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 09:44:07,779 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 09:44:29,903 : Test_Register : test_register_01 : 19 : Getting Data from Excel sheet  
+2025-07-01 09:44:30,204 : Test_Register : test_register_01 : 31 : Click on Gender 
+2025-07-01 09:44:30,459 : Test_Register : test_register_01 : 33 : Enter personal Info Akhil, Mangal, akhman@gmail.com, R.P.Business Solution,Pune 
+2025-07-01 09:44:30,768 : Test_Register : test_register_01 : 36 : Enter password and confirm Password 
+2025-07-01 09:44:30,859 : Test_Register : test_register_01 : 38 : Enter Register Button 
+2025-07-01 09:45:20,172 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 09:45:20,172 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 09:46:03,391 : Test_Register : test_register_01 : 14 : Opening Browser with NopCommerce 
+2025-07-01 09:46:03,392 : Test_Register : test_register_01 : 17 : Click on Register tab/link 
+2025-07-01 09:46:05,297 : Test_Register : test_register_01 : 19 : Getting Data from Excel sheet  
+2025-07-01 09:46:05,701 : Test_Register : test_register_01 : 31 : Click on Gender 
+2025-07-01 09:46:05,942 : Test_Register : test_register_01 : 33 : Enter personal Info Akhil, Mangal, akhman@gmail.com, R.P.Business Solution,Pune 
+2025-07-01 09:46:06,161 : Test_Register : test_register_01 : 36 : Enter password and confirm Password 
+2025-07-01 09:46:06,217 : Test_Register : test_register_01 : 38 : Enter Register Button 
+2025-07-01 09:46:11,941 : Test_Register : test_register_01 : 31 : Click on Gender 
+2025-07-01 10:41:42,794 : Test_login : test_login_002 : 17 : Opening browser with NopCommerce website 
+2025-07-01 10:41:42,795 : Test_login : test_login_002 : 19 : Click on login tab/link 
+2025-07-01 10:41:45,095 : Test_login : test_login_002 : 21 : Enter email akhman@gmail.com and password Akh123 
+2025-07-01 10:41:45,317 : Test_login : test_login_002 : 23 : Click on Login button 
+2025-07-01 10:42:01,249 : Test_login : test_login_002 : 17 : Opening browser with NopCommerce website 
+2025-07-01 10:42:01,249 : Test_login : test_login_002 : 19 : Click on login tab/link 
+2025-07-01 10:42:01,956 : Test_login : test_login_002 : 21 : Enter email akhman@gmail.com and password akh123 
+2025-07-01 10:42:15,504 : Test_login : test_login_002 : 17 : Opening browser with NopCommerce website 
+2025-07-01 10:42:15,504 : Test_login : test_login_002 : 19 : Click on login tab/link 
+2025-07-01 10:42:16,190 : Test_login : test_login_002 : 21 : Enter email ak@gmail.com and password Akh123 
+2025-07-01 10:42:29,548 : Test_login : test_login_002 : 17 : Opening browser with NopCommerce website 
+2025-07-01 10:42:29,548 : Test_login : test_login_002 : 19 : Click on login tab/link 
+2025-07-01 10:42:30,248 : Test_login : test_login_002 : 21 : Enter email akhm@gmail.com and password ak123 

@@ -1,0 +1,2 @@
+[32mINFO    [0m Test_Register:test_register.py:14 Opening Browser with NopCommerce
+[32mINFO    [0m Test_Register:test_register.py:17 Click on Register tab/link

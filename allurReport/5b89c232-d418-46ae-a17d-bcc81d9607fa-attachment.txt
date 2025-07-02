@@ -1,0 +1,4 @@
+[32mINFO    [0m Test_login:test_login.py:17 Opening browser with NopCommerce website
+[32mINFO    [0m Test_login:test_login.py:19 Click on login tab/link
+[32mINFO    [0m Test_login:test_login.py:21 Enter email akhman@gmail.com and password Akh123
+[32mINFO    [0m Test_login:test_login.py:23 Click on Login button
