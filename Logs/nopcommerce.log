@@ -100,3 +100,356 @@
 2025-07-01 10:42:29,548 : Test_login : test_login_002 : 17 : Opening browser with NopCommerce website 
 2025-07-01 10:42:29,548 : Test_login : test_login_002 : 19 : Click on login tab/link 
 2025-07-01 10:42:30,248 : Test_login : test_login_002 : 21 : Enter email akhm@gmail.com and password ak123 
+2025-07-04 09:55:17,334 : TestHomePage : test_homepage_element : 12 : Opening website 
+2025-07-04 09:55:17,336 : TestHomePage : test_homepage_element : 14 : Visibility of project Logo 
+2025-07-04 09:55:18,105 : TestHomePage : test_homepage_element : 16 : Search box is present 
+2025-07-04 09:55:18,127 : TestHomePage : test_homepage_element : 18 : Get the list of menu 
+2025-07-07 11:02:09,882 : TestHomePage : test_homepage_element : 12 : Opening website 
+2025-07-07 11:02:09,890 : TestHomePage : test_homepage_element : 14 : Click on Register link 
+2025-07-07 11:02:12,581 : TestHomePage : test_homepage_element : 17 : Click on Login link 
+2025-07-08 08:29:23,800 : TestHomePage : test_homepage_element : 12 : Opening website 
+2025-07-08 08:29:23,800 : TestHomePage : test_homepage_element : 14 : Click on Register link 
+2025-07-08 08:29:23,800 : TestHomePage : test_homepage_element : 17 : Click on Login link 
+2025-07-08 08:29:23,800 : TestHomePage : test_homepage_element : 20 : Visibility of project Logo 
+2025-07-08 08:29:52,990 : TestHomePage : test_homepage_element : 12 : Opening website 
+2025-07-08 08:29:52,991 : TestHomePage : test_homepage_element : 14 : Click on Register link 
+2025-07-08 08:29:52,991 : TestHomePage : test_homepage_element : 17 : Click on Login link 
+2025-07-08 08:29:52,991 : TestHomePage : test_homepage_element : 20 : Visibility of project Logo 
+2025-07-08 08:29:53,661 : TestHomePage : test_homepage_element : 22 : Search box is present and Clickable 
+2025-07-08 08:30:40,509 : TestHomePage : test_homepage_element : 12 : Opening website 
+2025-07-08 08:30:40,509 : TestHomePage : test_homepage_element : 14 : Click on Register link 
+2025-07-08 08:30:40,510 : TestHomePage : test_homepage_element : 17 : Click on Login link 
+2025-07-08 08:30:40,510 : TestHomePage : test_homepage_element : 20 : Visibility of project Logo 
+2025-07-08 08:30:40,895 : TestHomePage : test_homepage_element : 22 : Search box is present and Clickable 
+2025-07-08 09:09:15,878 : TestHomePage : test_navigation_register_page : 15 : Click on Register link 
+2025-07-08 09:09:26,502 : TestHomePage : test_navigate_login_page : 23 : Click on Login link 
+2025-07-08 09:09:28,883 : TestHomePage : test_search_product : 27 : Visibility of project Logo 
+2025-07-08 09:20:32,834 : TestHomePage : test_navigation_register_page : 14 : Opening website 
+2025-07-08 09:20:32,848 : TestHomePage : test_navigation_register_page : 16 : Click on Register link 
+2025-07-08 09:20:46,663 : TestHomePage : test_navigate_login_page : 22 : Opening website 
+2025-07-08 09:20:46,663 : TestHomePage : test_navigate_login_page : 24 : Click on Login link 
+2025-07-08 09:21:00,417 : TestHomePage : test_search_product : 29 : Opening website 
+2025-07-08 09:21:00,418 : TestHomePage : test_search_product : 31 : Search box is present and Clickable 
+2025-07-08 09:21:00,959 : TestHomePage : test_search_product : 33 : Click on Search Button 
+2025-07-08 09:21:16,843 : TestHomePage : test_logo_visibility : 38 : Opening website 
+2025-07-08 09:21:16,844 : TestHomePage : test_logo_visibility : 40 : Visibility of project Logo 
+2025-07-08 09:28:05,144 : TestHomePage : test_navigation_register_page : 14 : Opening website 
+2025-07-08 09:28:05,144 : TestHomePage : test_navigation_register_page : 16 : Click on Register link 
+2025-07-08 09:28:19,999 : TestHomePage : test_navigate_login_page : 22 : Opening website 
+2025-07-08 09:28:19,999 : TestHomePage : test_navigate_login_page : 24 : Click on Login link 
+2025-07-08 09:28:33,218 : TestHomePage : test_search_product : 29 : Opening website 
+2025-07-08 09:28:33,218 : TestHomePage : test_search_product : 31 : Search box is present and Clickable 
+2025-07-08 09:28:33,660 : TestHomePage : test_search_product : 33 : Click on Search Button 
+2025-07-08 09:28:44,995 : TestHomePage : test_logo_visibility : 39 : Opening website 
+2025-07-08 09:28:44,996 : TestHomePage : test_logo_visibility : 41 : Visibility of project Logo 
+2025-07-08 09:54:32,201 : TestHomePage : test_navigation_register_page : 14 : Opening website 
+2025-07-08 09:54:32,203 : TestHomePage : test_navigation_register_page : 16 : Click on Register link 
+2025-07-08 09:54:46,573 : TestHomePage : test_navigate_login_page : 22 : Opening website 
+2025-07-08 09:54:46,574 : TestHomePage : test_navigate_login_page : 24 : Click on Login link 
+2025-07-08 09:55:00,840 : TestHomePage : test_wishlist : 31 : Opening website 
+2025-07-08 09:55:00,840 : TestHomePage : test_wishlist : 33 : click on wishlist 
+2025-07-08 09:55:21,276 : TestHomePage : test_shopping_cart : 39 : Opening website 
+2025-07-08 09:55:21,277 : TestHomePage : test_shopping_cart : 41 : click on shopping cart link 
+2025-07-08 09:55:35,575 : TestHomePage : test_logo_visibility : 46 : Opening website 
+2025-07-08 09:55:35,576 : TestHomePage : test_logo_visibility : 48 : Visibility of project Logo 
+2025-07-08 09:55:47,907 : TestHomePage : test_search_product : 53 : Opening website 
+2025-07-08 09:55:47,907 : TestHomePage : test_search_product : 55 : Search box is present and Clickable 
+2025-07-08 09:55:48,402 : TestHomePage : test_search_product : 57 : Click on Search Button 
+2025-07-08 09:58:35,220 : TestHomePage : test_navigation_register_page : 14 : Opening website 
+2025-07-08 09:58:35,220 : TestHomePage : test_navigation_register_page : 16 : Click on Register link 
+2025-07-08 09:58:40,134 : TestHomePage : test_navigate_login_page : 22 : Opening website 
+2025-07-08 09:58:40,134 : TestHomePage : test_navigate_login_page : 24 : Click on Login link 
+2025-07-08 09:58:45,765 : TestHomePage : test_wishlist : 31 : Opening website 
+2025-07-08 09:58:45,765 : TestHomePage : test_wishlist : 33 : click on wishlist 
+2025-07-08 09:58:51,414 : TestHomePage : test_shopping_cart : 39 : Opening website 
+2025-07-08 09:58:51,414 : TestHomePage : test_shopping_cart : 41 : click on shopping cart link 
+2025-07-08 09:58:57,392 : TestHomePage : test_logo_visibility : 46 : Opening website 
+2025-07-08 09:58:57,392 : TestHomePage : test_logo_visibility : 48 : Visibility of project Logo 
+2025-07-08 09:59:00,782 : TestHomePage : test_search_product : 53 : Opening website 
+2025-07-08 09:59:00,783 : TestHomePage : test_search_product : 55 : Search box is present and Clickable 
+2025-07-08 09:59:01,115 : TestHomePage : test_search_product : 57 : Click on Search Button 
+2025-07-08 09:59:23,601 : TestHomePage : test_navigation_register_page : 14 : Opening website 
+2025-07-08 09:59:23,601 : TestHomePage : test_navigation_register_page : 16 : Click on Register link 
+2025-07-08 09:59:27,925 : TestHomePage : test_navigate_login_page : 22 : Opening website 
+2025-07-08 09:59:27,926 : TestHomePage : test_navigate_login_page : 24 : Click on Login link 
+2025-07-08 09:59:32,217 : TestHomePage : test_wishlist : 31 : Opening website 
+2025-07-08 09:59:32,218 : TestHomePage : test_wishlist : 33 : click on wishlist 
+2025-07-08 09:59:36,646 : TestHomePage : test_shopping_cart : 39 : Opening website 
+2025-07-08 09:59:36,647 : TestHomePage : test_shopping_cart : 41 : click on shopping cart link 
+2025-07-08 09:59:40,567 : TestHomePage : test_logo_visibility : 46 : Opening website 
+2025-07-08 09:59:40,568 : TestHomePage : test_logo_visibility : 48 : Visibility of project Logo 
+2025-07-08 09:59:43,474 : TestHomePage : test_search_product : 53 : Opening website 
+2025-07-08 09:59:43,474 : TestHomePage : test_search_product : 55 : Search box is present and Clickable 
+2025-07-08 09:59:43,652 : TestHomePage : test_search_product : 57 : Click on Search Button 
+2025-07-09 09:01:49,091 : TestHomePage : test_navigation_register_page : 14 : Opening website 
+2025-07-09 09:01:49,092 : TestHomePage : test_navigation_register_page : 16 : Click on Register link 
+2025-07-09 09:01:54,050 : TestHomePage : test_navigate_login_page : 22 : Opening website 
+2025-07-09 09:01:54,051 : TestHomePage : test_navigate_login_page : 24 : Click on Login link 
+2025-07-09 09:02:00,089 : TestHomePage : test_wishlist : 29 : Opening website 
+2025-07-09 09:02:00,089 : TestHomePage : test_wishlist : 31 : click on wishlist 
+2025-07-09 09:02:04,550 : TestHomePage : test_shopping_cart : 37 : Opening website 
+2025-07-09 09:02:04,551 : TestHomePage : test_shopping_cart : 39 : click on shopping cart link 
+2025-07-09 09:02:08,952 : TestHomePage : test_logo_visibility : 44 : Opening website 
+2025-07-09 09:02:08,952 : TestHomePage : test_logo_visibility : 46 : Visibility of project Logo 
+2025-07-09 09:02:13,202 : TestHomePage : test_search_product : 51 : Opening website 
+2025-07-09 09:02:13,203 : TestHomePage : test_search_product : 53 : Search box is present and Clickable 
+2025-07-09 09:02:13,373 : TestHomePage : test_search_product : 55 : Click on Search Button 
+2025-07-09 09:02:18,522 : TestHomePage : test_top_menu : 61 : Opening website 
+2025-07-09 09:02:18,523 : TestHomePage : test_top_menu : 63 : Get the list of menu 
+2025-07-09 10:14:21,370 : TestHomePage : test_navigation_register_page : 14 : Opening website 
+2025-07-09 10:14:21,424 : TestHomePage : test_navigation_register_page : 16 : Click on Register link 
+2025-07-09 10:14:26,319 : TestHomePage : test_navigate_login_page : 22 : Opening website 
+2025-07-09 10:14:26,320 : TestHomePage : test_navigate_login_page : 24 : Click on Login link 
+2025-07-09 10:14:30,092 : TestHomePage : test_wishlist : 29 : Opening website 
+2025-07-09 10:14:30,092 : TestHomePage : test_wishlist : 31 : click on wishlist 
+2025-07-09 10:14:33,991 : TestHomePage : test_shopping_cart : 37 : Opening website 
+2025-07-09 10:14:33,991 : TestHomePage : test_shopping_cart : 39 : click on shopping cart link 
+2025-07-09 10:14:38,202 : TestHomePage : test_logo_visibility : 44 : Opening website 
+2025-07-09 10:14:38,203 : TestHomePage : test_logo_visibility : 46 : Visibility of project Logo 
+2025-07-09 10:14:40,857 : TestHomePage : test_search_product : 51 : Opening website 
+2025-07-09 10:14:40,858 : TestHomePage : test_search_product : 53 : Search box is present and Clickable 
+2025-07-09 10:14:41,106 : TestHomePage : test_search_product : 55 : Click on Search Button 
+2025-07-09 10:14:45,062 : TestHomePage : test_top_menu_computer : 61 : Opening website 
+2025-07-09 10:14:45,062 : TestHomePage : test_top_menu_computer : 63 : Get the list of menu 
+2025-07-09 10:17:40,566 : TestHomePage : test_top_menu_computer : 64 : Opening website 
+2025-07-09 10:17:40,566 : TestHomePage : test_top_menu_computer : 66 : Get the list of menu 
+2025-07-09 10:19:57,962 : TestHomePage : test_top_menu_computer : 64 : Opening website 
+2025-07-09 10:19:57,962 : TestHomePage : test_top_menu_computer : 66 : Get the list of menu 
+2025-07-09 10:19:59,124 : TestHomePage : test_top_menu_computer : 70 : Opening website 
+2025-07-09 10:21:28,868 : TestHomePage : test_top_menu_computer : 64 : Opening website 
+2025-07-09 10:21:28,869 : TestHomePage : test_top_menu_computer : 66 : Get the list of menu 
+2025-07-09 10:27:06,282 : TestHomePage : test_navigation_register_page : 16 : Opening website 
+2025-07-09 10:27:06,283 : TestHomePage : test_navigation_register_page : 18 : Click on Register link 
+2025-07-09 10:27:12,664 : TestHomePage : test_navigate_login_page : 24 : Opening website 
+2025-07-09 10:27:12,664 : TestHomePage : test_navigate_login_page : 26 : Click on Login link 
+2025-07-09 10:27:17,451 : TestHomePage : test_wishlist : 31 : Opening website 
+2025-07-09 10:27:17,451 : TestHomePage : test_wishlist : 33 : click on wishlist 
+2025-07-09 10:27:22,145 : TestHomePage : test_shopping_cart : 39 : Opening website 
+2025-07-09 10:27:22,146 : TestHomePage : test_shopping_cart : 41 : click on shopping cart link 
+2025-07-09 10:27:26,974 : TestHomePage : test_logo_visibility : 46 : Opening website 
+2025-07-09 10:27:26,974 : TestHomePage : test_logo_visibility : 48 : Visibility of project Logo 
+2025-07-09 10:27:32,335 : TestHomePage : test_search_product : 53 : Opening website 
+2025-07-09 10:27:32,335 : TestHomePage : test_search_product : 55 : Search box is present and Clickable 
+2025-07-09 10:27:33,110 : TestHomePage : test_search_product : 57 : Click on Search Button 
+2025-07-09 10:27:37,096 : Test_Top_Menu : test_top_menu_computer : 67 : Opening website 
+2025-07-09 10:27:37,096 : Test_Top_Menu : test_top_menu_computer : 69 : Get the list of menu 
+2025-07-09 10:27:41,057 : Test_Top_Menu : test_sub_menu_computer_desktop : 75 : Opening website 
+2025-07-09 10:27:47,108 : Test_Top_Menu : test_sub_menu_computer_notebooks : 82 : Opening website 
+2025-07-09 10:27:53,964 : Test_Top_Menu : test_sub_menu_computer_software : 89 : Opening website 
+2025-07-09 10:56:10,611 : TestHomePage : test_navigation_register_page : 16 : Opening website 
+2025-07-09 10:56:10,613 : TestHomePage : test_navigation_register_page : 18 : Click on Register link 
+2025-07-09 10:56:15,084 : TestHomePage : test_navigate_login_page : 24 : Opening website 
+2025-07-09 10:56:15,084 : TestHomePage : test_navigate_login_page : 26 : Click on Login link 
+2025-07-09 10:56:20,237 : TestHomePage : test_wishlist : 31 : Opening website 
+2025-07-09 10:56:20,237 : TestHomePage : test_wishlist : 33 : click on wishlist 
+2025-07-09 10:56:25,189 : TestHomePage : test_shopping_cart : 39 : Opening website 
+2025-07-09 10:56:25,189 : TestHomePage : test_shopping_cart : 41 : click on shopping cart link 
+2025-07-09 10:56:29,704 : TestHomePage : test_logo_visibility : 46 : Opening website 
+2025-07-09 10:56:29,704 : TestHomePage : test_logo_visibility : 48 : Visibility of project Logo 
+2025-07-09 10:56:32,587 : TestHomePage : test_search_product : 53 : Opening website 
+2025-07-09 10:56:32,587 : TestHomePage : test_search_product : 55 : Search box is present and Clickable 
+2025-07-09 10:56:32,814 : TestHomePage : test_search_product : 57 : Click on Search Button 
+2025-07-09 10:56:36,933 : Test_Top_Menu : test_top_menu_computer : 67 : Opening website 
+2025-07-09 10:56:36,933 : Test_Top_Menu : test_top_menu_computer : 69 : Get the list of menu 
+2025-07-09 10:56:42,941 : Test_Top_Menu : test_sub_menu_computer_desktop : 75 : Opening website 
+2025-07-09 10:56:47,735 : Test_Top_Menu : test_sub_menu_computer_notebooks : 82 : Opening website 
+2025-07-09 10:56:52,423 : Test_Top_Menu : test_sub_menu_computer_software : 89 : Opening website 
+2025-07-09 10:56:58,584 : Test_Top_Menu : test_top_menu_electronic : 96 : Opening website 
+2025-07-09 10:56:58,585 : Test_Top_Menu : test_top_menu_electronic : 98 : Get the list of menu 
+2025-07-09 10:57:01,683 : Test_Top_Menu : test_sub_menu_electronic_camera_photo : 104 : Opening website 
+2025-07-09 10:57:04,267 : Test_Top_Menu : test_sub_menu_electronic_cell_phone : 111 : Opening website 
+2025-07-09 10:57:07,913 : Test_Top_Menu : test_sub_menu_electronic_others : 118 : Opening website 
+2025-07-09 10:57:11,148 : Test_Top_Menu : test_top_menu_apparel : 125 : Opening website 
+2025-07-09 10:57:11,149 : Test_Top_Menu : test_top_menu_apparel : 127 : Get the list of menu 
+2025-07-09 10:57:14,287 : Test_Top_Menu : test_sub_menu_apparel_shoes : 133 : Opening website 
+2025-07-09 10:57:17,716 : Test_Top_Menu : test_sub_menu_apparel_clothing : 140 : Opening website 
+2025-07-09 10:57:20,595 : Test_Top_Menu : test_sub_menu_apparel_accessories : 147 : Opening website 
+2025-07-09 10:57:24,254 : Test_Top_Menu : test_top_menu_digital_download : 154 : Opening website 
+2025-07-09 10:57:24,254 : Test_Top_Menu : test_top_menu_digital_download : 156 : Get the list of menu 
+2025-07-09 10:57:27,422 : Test_Top_Menu : test_top_menu_books : 162 : Opening website 
+2025-07-09 10:57:27,423 : Test_Top_Menu : test_top_menu_books : 164 : Get the list of menu 
+2025-07-09 10:57:30,525 : Test_Top_Menu : test_top_menu_jewelry : 170 : Opening website 
+2025-07-09 10:57:30,525 : Test_Top_Menu : test_top_menu_jewelry : 172 : Get the list of menu 
+2025-07-09 10:57:33,893 : Test_Top_Menu : test_top_menu_gift_cards : 178 : Opening website 
+2025-07-09 10:57:33,894 : Test_Top_Menu : test_top_menu_gift_cards : 180 : Get the list of menu 
+2025-07-10 08:39:35,054 : TestHomePage : test_navigation_register_page : 16 : Opening website 
+2025-07-10 08:39:35,054 : TestHomePage : test_navigation_register_page : 18 : Click on Register link 
+2025-07-10 08:39:37,765 : TestHomePage : test_navigate_login_page : 24 : Opening website 
+2025-07-10 08:39:37,765 : TestHomePage : test_navigate_login_page : 26 : Click on Login link 
+2025-07-10 08:39:40,347 : TestHomePage : test_wishlist : 31 : Opening website 
+2025-07-10 08:39:40,347 : TestHomePage : test_wishlist : 33 : click on wishlist 
+2025-07-10 08:39:42,956 : TestHomePage : test_shopping_cart : 39 : Opening website 
+2025-07-10 08:39:42,956 : TestHomePage : test_shopping_cart : 41 : click on shopping cart link 
+2025-07-10 08:39:46,133 : TestHomePage : test_logo_visibility : 46 : Opening website 
+2025-07-10 08:39:46,133 : TestHomePage : test_logo_visibility : 48 : Visibility of project Logo 
+2025-07-10 08:39:48,648 : TestHomePage : test_search_product : 53 : Opening website 
+2025-07-10 08:39:48,649 : TestHomePage : test_search_product : 55 : Search box is present and Clickable 
+2025-07-10 08:39:51,356 : Test_Top_Menu : test_top_menu_computer : 67 : Opening website 
+2025-07-10 08:39:51,356 : Test_Top_Menu : test_top_menu_computer : 69 : Get the list of menu 
+2025-07-10 08:39:53,988 : Test_Top_Menu : test_sub_menu_computer_desktop : 75 : Opening website 
+2025-07-10 08:39:56,815 : Test_Top_Menu : test_sub_menu_computer_notebooks : 82 : Opening website 
+2025-07-10 08:39:59,702 : Test_Top_Menu : test_sub_menu_computer_software : 89 : Opening website 
+2025-07-10 08:40:03,357 : Test_Top_Menu : test_top_menu_electronic : 96 : Opening website 
+2025-07-10 08:40:03,357 : Test_Top_Menu : test_top_menu_electronic : 98 : Get the list of menu 
+2025-07-10 08:40:06,366 : Test_Top_Menu : test_sub_menu_electronic_camera_photo : 104 : Opening website 
+2025-07-10 08:40:09,085 : Test_Top_Menu : test_sub_menu_electronic_cell_phone : 111 : Opening website 
+2025-07-10 08:40:11,642 : Test_Top_Menu : test_sub_menu_electronic_others : 118 : Opening website 
+2025-07-10 08:40:14,847 : Test_Top_Menu : test_top_menu_apparel : 125 : Opening website 
+2025-07-10 08:40:14,847 : Test_Top_Menu : test_top_menu_apparel : 127 : Get the list of menu 
+2025-07-10 08:40:19,106 : Test_Top_Menu : test_sub_menu_apparel_shoes : 133 : Opening website 
+2025-07-10 08:40:22,724 : Test_Top_Menu : test_sub_menu_apparel_clothing : 140 : Opening website 
+2025-07-10 08:40:27,336 : Test_Top_Menu : test_sub_menu_apparel_accessories : 147 : Opening website 
+2025-07-10 08:40:33,306 : Test_Top_Menu : test_top_menu_digital_download : 154 : Opening website 
+2025-07-10 08:40:33,307 : Test_Top_Menu : test_top_menu_digital_download : 156 : Get the list of menu 
+2025-07-10 08:40:36,014 : Test_Top_Menu : test_top_menu_books : 162 : Opening website 
+2025-07-10 08:40:36,015 : Test_Top_Menu : test_top_menu_books : 164 : Get the list of menu 
+2025-07-10 08:40:38,839 : Test_Top_Menu : test_top_menu_jewelry : 170 : Opening website 
+2025-07-10 08:40:38,840 : Test_Top_Menu : test_top_menu_jewelry : 172 : Get the list of menu 
+2025-07-10 08:40:41,583 : Test_Top_Menu : test_top_menu_gift_cards : 178 : Opening website 
+2025-07-10 08:40:41,583 : Test_Top_Menu : test_top_menu_gift_cards : 180 : Get the list of menu 
+2025-07-10 09:00:22,219 : TestHomePage : test_navigation_register_page : 16 : Opening website 
+2025-07-10 09:00:22,220 : TestHomePage : test_navigation_register_page : 18 : Click on Register link 
+2025-07-10 09:00:24,402 : TestHomePage : test_navigate_login_page : 24 : Opening website 
+2025-07-10 09:00:24,403 : TestHomePage : test_navigate_login_page : 26 : Click on Login link 
+2025-07-10 09:00:26,716 : TestHomePage : test_wishlist : 31 : Opening website 
+2025-07-10 09:00:26,716 : TestHomePage : test_wishlist : 33 : click on wishlist 
+2025-07-10 09:00:29,024 : TestHomePage : test_shopping_cart : 39 : Opening website 
+2025-07-10 09:00:29,024 : TestHomePage : test_shopping_cart : 41 : click on shopping cart link 
+2025-07-10 09:00:31,411 : TestHomePage : test_logo_visibility : 46 : Opening website 
+2025-07-10 09:00:31,411 : TestHomePage : test_logo_visibility : 48 : Visibility of project Logo 
+2025-07-10 09:00:33,968 : TestHomePage : test_search_product : 53 : Opening website 
+2025-07-10 09:00:33,968 : TestHomePage : test_search_product : 55 : Search box is present and Clickable 
+2025-07-10 09:00:36,286 : Test_Top_Menu : test_top_menu_computer : 67 : Opening website 
+2025-07-10 09:00:36,286 : Test_Top_Menu : test_top_menu_computer : 69 : Get the list of menu 
+2025-07-10 09:00:38,574 : Test_Top_Menu : test_sub_menu_computer_desktop : 75 : Opening website 
+2025-07-10 09:00:40,972 : Test_Top_Menu : test_sub_menu_computer_notebooks : 82 : Opening website 
+2025-07-10 09:00:43,264 : Test_Top_Menu : test_sub_menu_computer_software : 89 : Opening website 
+2025-07-10 09:00:45,638 : Test_Top_Menu : test_top_menu_electronic : 96 : Opening website 
+2025-07-10 09:00:45,639 : Test_Top_Menu : test_top_menu_electronic : 98 : Get the list of menu 
+2025-07-10 09:00:47,953 : Test_Top_Menu : test_sub_menu_electronic_camera_photo : 104 : Opening website 
+2025-07-10 09:00:50,408 : Test_Top_Menu : test_sub_menu_electronic_cell_phone : 111 : Opening website 
+2025-07-10 09:00:52,772 : Test_Top_Menu : test_sub_menu_electronic_others : 118 : Opening website 
+2025-07-10 09:00:55,200 : Test_Top_Menu : test_top_menu_apparel : 125 : Opening website 
+2025-07-10 09:00:55,200 : Test_Top_Menu : test_top_menu_apparel : 127 : Get the list of menu 
+2025-07-10 09:00:57,632 : Test_Top_Menu : test_sub_menu_apparel_shoes : 133 : Opening website 
+2025-07-10 09:01:00,060 : Test_Top_Menu : test_sub_menu_apparel_clothing : 140 : Opening website 
+2025-07-10 09:01:02,310 : Test_Top_Menu : test_sub_menu_apparel_accessories : 147 : Opening website 
+2025-07-10 09:01:04,672 : Test_Top_Menu : test_top_menu_digital_download : 154 : Opening website 
+2025-07-10 09:01:04,672 : Test_Top_Menu : test_top_menu_digital_download : 156 : Get the list of menu 
+2025-07-10 09:01:07,307 : Test_Top_Menu : test_top_menu_books : 162 : Opening website 
+2025-07-10 09:01:07,307 : Test_Top_Menu : test_top_menu_books : 164 : Get the list of menu 
+2025-07-10 09:01:09,643 : Test_Top_Menu : test_top_menu_jewelry : 170 : Opening website 
+2025-07-10 09:01:09,643 : Test_Top_Menu : test_top_menu_jewelry : 172 : Get the list of menu 
+2025-07-10 09:01:11,978 : Test_Top_Menu : test_top_menu_gift_cards : 178 : Opening website 
+2025-07-10 09:01:11,978 : Test_Top_Menu : test_top_menu_gift_cards : 180 : Get the list of menu 
+2025-07-10 09:19:33,519 : TestHomePage : test_navigation_register_page : 16 : Opening website 
+2025-07-10 09:19:33,520 : TestHomePage : test_navigation_register_page : 18 : Click on Register link 
+2025-07-10 09:19:38,068 : TestHomePage : test_navigate_login_page : 24 : Opening website 
+2025-07-10 09:19:38,068 : TestHomePage : test_navigate_login_page : 26 : Click on Login link 
+2025-07-10 09:19:42,541 : TestHomePage : test_wishlist : 31 : Opening website 
+2025-07-10 09:19:42,541 : TestHomePage : test_wishlist : 33 : click on wishlist 
+2025-07-10 09:19:47,237 : TestHomePage : test_shopping_cart : 39 : Opening website 
+2025-07-10 09:19:47,237 : TestHomePage : test_shopping_cart : 41 : click on shopping cart link 
+2025-07-10 09:19:51,148 : TestHomePage : test_logo_visibility : 46 : Opening website 
+2025-07-10 09:19:51,149 : TestHomePage : test_logo_visibility : 48 : Visibility of project Logo 
+2025-07-10 09:19:55,338 : TestHomePage : test_search_product : 53 : Opening website 
+2025-07-10 09:19:55,338 : TestHomePage : test_search_product : 55 : Search box is present and Clickable 
+2025-07-10 09:19:56,116 : TestHomePage : test_search_product : 57 : Click on Search Button 
+2025-07-10 09:20:00,148 : Test_Top_Menu : test_top_menu_computer : 67 : Opening website 
+2025-07-10 09:20:00,149 : Test_Top_Menu : test_top_menu_computer : 69 : Get the list of menu 
+2025-07-10 09:20:03,650 : Test_Top_Menu : test_sub_menu_computer_desktop : 75 : Opening website 
+2025-07-10 09:20:07,726 : Test_Top_Menu : test_sub_menu_computer_notebooks : 82 : Opening website 
+2025-07-10 09:20:11,666 : Test_Top_Menu : test_sub_menu_computer_software : 89 : Opening website 
+2025-07-10 09:20:17,268 : Test_Top_Menu : test_top_menu_electronic : 96 : Opening website 
+2025-07-10 09:20:17,268 : Test_Top_Menu : test_top_menu_electronic : 98 : Get the list of menu 
+2025-07-10 09:20:19,980 : Test_Top_Menu : test_sub_menu_electronic_camera_photo : 104 : Opening website 
+2025-07-10 09:20:23,028 : Test_Top_Menu : test_sub_menu_electronic_cell_phone : 111 : Opening website 
+2025-07-10 09:20:25,886 : Test_Top_Menu : test_sub_menu_electronic_others : 118 : Opening website 
+2025-07-10 09:20:29,453 : Test_Top_Menu : test_top_menu_apparel : 125 : Opening website 
+2025-07-10 09:20:29,454 : Test_Top_Menu : test_top_menu_apparel : 127 : Get the list of menu 
+2025-07-10 09:20:32,371 : Test_Top_Menu : test_sub_menu_apparel_shoes : 133 : Opening website 
+2025-07-10 09:20:36,074 : Test_Top_Menu : test_sub_menu_apparel_clothing : 140 : Opening website 
+2025-07-10 09:20:40,973 : Test_Top_Menu : test_sub_menu_apparel_accessories : 147 : Opening website 
+2025-07-10 09:20:43,697 : Test_Top_Menu : test_top_menu_digital_download : 154 : Opening website 
+2025-07-10 09:20:43,698 : Test_Top_Menu : test_top_menu_digital_download : 156 : Get the list of menu 
+2025-07-10 09:20:46,579 : Test_Top_Menu : test_top_menu_books : 162 : Opening website 
+2025-07-10 09:20:46,580 : Test_Top_Menu : test_top_menu_books : 164 : Get the list of menu 
+2025-07-10 09:20:49,741 : Test_Top_Menu : test_top_menu_jewelry : 170 : Opening website 
+2025-07-10 09:20:49,741 : Test_Top_Menu : test_top_menu_jewelry : 172 : Get the list of menu 
+2025-07-10 09:20:52,444 : Test_Top_Menu : test_top_menu_gift_cards : 178 : Opening website 
+2025-07-10 09:20:52,444 : Test_Top_Menu : test_top_menu_gift_cards : 180 : Get the list of menu 
+2025-07-10 09:28:06,137 : TestHomePage : test_navigation_register_page : 16 : Opening website 
+2025-07-10 09:28:06,137 : TestHomePage : test_navigation_register_page : 18 : Click on Register link 
+2025-07-10 09:28:10,757 : TestHomePage : test_navigate_login_page : 24 : Opening website 
+2025-07-10 09:28:10,757 : TestHomePage : test_navigate_login_page : 26 : Click on Login link 
+2025-07-10 09:28:16,211 : TestHomePage : test_wishlist : 31 : Opening website 
+2025-07-10 09:28:16,211 : TestHomePage : test_wishlist : 33 : click on wishlist 
+2025-07-10 09:28:19,677 : TestHomePage : test_shopping_cart : 39 : Opening website 
+2025-07-10 09:28:19,678 : TestHomePage : test_shopping_cart : 41 : click on shopping cart link 
+2025-07-10 09:28:24,238 : TestHomePage : test_logo_visibility : 46 : Opening website 
+2025-07-10 09:28:24,238 : TestHomePage : test_logo_visibility : 48 : Visibility of project Logo 
+2025-07-10 09:28:27,847 : TestHomePage : test_search_product : 53 : Opening website 
+2025-07-10 09:28:27,847 : TestHomePage : test_search_product : 55 : Search box is present and Clickable 
+2025-07-10 09:28:29,068 : TestHomePage : test_search_product : 57 : Click on Search Button 
+2025-07-10 09:28:34,403 : Test_Top_Menu : test_top_menu_computer : 67 : Opening website 
+2025-07-10 09:28:34,403 : Test_Top_Menu : test_top_menu_computer : 69 : Get the list of menu 
+2025-07-10 09:28:37,910 : Test_Top_Menu : test_sub_menu_computer_desktop : 75 : Opening website 
+2025-07-10 09:28:42,611 : Test_Top_Menu : test_sub_menu_computer_notebooks : 82 : Opening website 
+2025-07-10 09:28:46,926 : Test_Top_Menu : test_sub_menu_computer_software : 89 : Opening website 
+2025-07-10 09:28:50,858 : Test_Top_Menu : test_top_menu_electronic : 96 : Opening website 
+2025-07-10 09:28:50,858 : Test_Top_Menu : test_top_menu_electronic : 98 : Get the list of menu 
+2025-07-10 09:28:55,165 : Test_Top_Menu : test_sub_menu_electronic_camera_photo : 104 : Opening website 
+2025-07-10 09:28:58,983 : Test_Top_Menu : test_sub_menu_electronic_cell_phone : 111 : Opening website 
+2025-07-10 09:29:03,144 : Test_Top_Menu : test_sub_menu_electronic_others : 118 : Opening website 
+2025-07-10 09:29:07,983 : Test_Top_Menu : test_top_menu_apparel : 125 : Opening website 
+2025-07-10 09:29:07,983 : Test_Top_Menu : test_top_menu_apparel : 127 : Get the list of menu 
+2025-07-10 09:29:11,001 : Test_Top_Menu : test_sub_menu_apparel_shoes : 133 : Opening website 
+2025-07-10 09:29:13,645 : Test_Top_Menu : test_sub_menu_apparel_clothing : 140 : Opening website 
+2025-07-10 09:29:16,637 : Test_Top_Menu : test_sub_menu_apparel_accessories : 147 : Opening website 
+2025-07-10 09:29:19,632 : Test_Top_Menu : test_top_menu_digital_download : 154 : Opening website 
+2025-07-10 09:29:19,632 : Test_Top_Menu : test_top_menu_digital_download : 156 : Get the list of menu 
+2025-07-10 09:29:23,321 : Test_Top_Menu : test_top_menu_books : 162 : Opening website 
+2025-07-10 09:29:23,321 : Test_Top_Menu : test_top_menu_books : 164 : Get the list of menu 
+2025-07-10 09:29:27,098 : Test_Top_Menu : test_top_menu_jewelry : 170 : Opening website 
+2025-07-10 09:29:27,099 : Test_Top_Menu : test_top_menu_jewelry : 172 : Get the list of menu 
+2025-07-10 09:29:30,028 : Test_Top_Menu : test_top_menu_gift_cards : 178 : Opening website 
+2025-07-10 09:29:30,029 : Test_Top_Menu : test_top_menu_gift_cards : 180 : Get the list of menu 
+2025-07-11 09:57:49,053 : TestSearchFunctionality : test_search_valid_product : 16 : Opening Browser 
+2025-07-11 09:57:49,053 : TestSearchFunctionality : test_search_valid_product : 18 : Input Search Item 
+2025-07-11 09:57:51,735 : TestSearchFunctionality : test_search_empty_input : 27 : Opening Browser 
+2025-07-11 09:57:51,735 : TestSearchFunctionality : test_search_empty_input : 29 : Input Search Item 
+2025-07-11 09:57:55,415 : TestSearchFunctionality : test_search_invalid_product : 44 : Opening Browser 
+2025-07-11 09:57:55,415 : TestSearchFunctionality : test_search_invalid_product : 46 : Input Search Item 
+2025-07-11 10:00:01,504 : TestSearchFunctionality : test_search_valid_product : 16 : Opening Browser 
+2025-07-11 10:00:01,504 : TestSearchFunctionality : test_search_valid_product : 18 : Input Search Item 
+2025-07-11 10:00:05,082 : TestSearchFunctionality : test_search_empty_input : 27 : Opening Browser 
+2025-07-11 10:00:05,082 : TestSearchFunctionality : test_search_empty_input : 29 : Input Search Item 
+2025-07-11 10:00:08,911 : TestSearchFunctionality : test_search_invalid_product : 44 : Opening Browser 
+2025-07-11 10:00:08,911 : TestSearchFunctionality : test_search_invalid_product : 46 : Input Search Item 
+2025-07-11 10:00:44,371 : TestSearchFunctionality : test_search_valid_product : 16 : Opening Browser 
+2025-07-11 10:00:44,371 : TestSearchFunctionality : test_search_valid_product : 18 : Input Search Item 
+2025-07-11 10:00:47,563 : TestSearchFunctionality : test_search_valid_product : 20 : Click on search button 
+2025-07-11 10:00:52,131 : TestSearchFunctionality : test_search_empty_input : 27 : Opening Browser 
+2025-07-11 10:00:52,132 : TestSearchFunctionality : test_search_empty_input : 29 : Input Search Item 
+2025-07-11 10:00:55,284 : TestSearchFunctionality : test_search_empty_input : 31 : Click on search button 
+2025-07-11 10:00:58,415 : TestSearchFunctionality : test_search_invalid_product : 44 : Opening Browser 
+2025-07-11 10:00:58,415 : TestSearchFunctionality : test_search_invalid_product : 46 : Input Search Item 
+2025-07-11 10:01:01,611 : TestSearchFunctionality : test_search_invalid_product : 48 : Click on search button 
+2025-07-11 10:06:42,835 : TestSearchFunctionality : test_search_valid_product : 16 : Opening Browser 
+2025-07-11 10:06:42,835 : TestSearchFunctionality : test_search_valid_product : 18 : Input Search Item 
+2025-07-11 10:06:46,021 : TestSearchFunctionality : test_search_valid_product : 20 : Click on search button 
+2025-07-11 10:06:51,424 : TestSearchFunctionality : test_search_empty_input : 27 : Opening Browser 
+2025-07-11 10:06:51,424 : TestSearchFunctionality : test_search_empty_input : 29 : Input Search Item 
+2025-07-11 10:06:54,556 : TestSearchFunctionality : test_search_empty_input : 31 : Click on search button 
+2025-07-11 10:06:58,039 : TestSearchFunctionality : test_search_invalid_product : 44 : Opening Browser 
+2025-07-11 10:06:58,039 : TestSearchFunctionality : test_search_invalid_product : 46 : Input Search Item 
+2025-07-11 10:07:01,234 : TestSearchFunctionality : test_search_invalid_product : 48 : Click on search button 
+2025-07-11 10:10:17,362 : TestSearchFunctionality : test_search_valid_product : 16 : Opening Browser 
+2025-07-11 10:10:17,363 : TestSearchFunctionality : test_search_valid_product : 18 : Input Search Item 
+2025-07-11 10:10:20,568 : TestSearchFunctionality : test_search_valid_product : 20 : Click on search button 
+2025-07-11 10:10:25,194 : TestSearchFunctionality : test_search_empty_input : 27 : Opening Browser 
+2025-07-11 10:10:25,194 : TestSearchFunctionality : test_search_empty_input : 29 : Input Search Item 
+2025-07-11 10:10:28,327 : TestSearchFunctionality : test_search_empty_input : 31 : Click on search button 
+2025-07-11 10:10:31,490 : TestSearchFunctionality : test_search_invalid_product : 44 : Opening Browser 
+2025-07-11 10:10:31,490 : TestSearchFunctionality : test_search_invalid_product : 46 : Input Search Item 
+2025-07-11 10:10:34,686 : TestSearchFunctionality : test_search_invalid_product : 48 : Click on search button 

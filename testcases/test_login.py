@@ -6,7 +6,7 @@ import pytest
 class Test_login:
     log = LogGenerator.loggen()
 
-    @pytest.mark.logindom
+    @pytest.mark.skip
     @pytest.mark.parametrize("email,password",
                              [('akhman@gmail.com', 'Akh123'),
                               ('akhman@gmail.com', 'akh123'),

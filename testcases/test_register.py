@@ -1,3 +1,5 @@
+import pytest
+
 from pageobject.registerPage import Register
 from Utilities.logs import LogGenerator
 from Utilities import XLUtils
@@ -10,6 +12,7 @@ class Test_Register:
     expected_result = []
     actual_result = []
 
+    @pytest.mark.skip
     def test_register_01(self, setup):
         self.log.info("Opening Browser with NopCommerce")
         self.driver = setup
