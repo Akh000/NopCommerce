@@ -46,8 +46,38 @@ class TestSearchFunctionality:
         self.log.info("Input Search Item")
         self.sip.search_input('xyz123')
         self.log.info("Click on search button")
-        self.sei.search_button()
+        self.sip.search_button()
         assert self.driver.find_element(By.XPATH, "//div[@class='no-result']").text == ("No products were found that "
                                                                                         "matched your criteria.")
 
+    def test_search_partial_keyword(self, setup):
+        self.driver = setup
+        self.log.info("Opening Browser")
+        self.spk = Search(self.driver)
+        self.log.info("Input Search Item")
+        self.spk.search_input('lap')
+        self.log.info("Click on search button")
+        self.spk.search_button()
+        assert "search?q=lap" in self.driver.current_url.lower()
 
+    def test_search_special_keyword(self, setup):
+        self.driver = setup
+        self.log.info("Opening Browser")
+        self.s_spk = Search(self.driver)
+        self.log.info("Input Search Item")
+        self.s_spk.search_input('@#$%^')
+        self.log.info("Click on search button")
+        self.s_spk.search_button()
+        assert self.driver.find_element(By.XPATH, "//div[@class='no-result']").text == ("No products were found that "
+                                                                                        "matched your criteria.")
+
+    def test_search_whitespace(self, setup):
+        self.driver = setup
+        self.log.info("Opening Browser")
+        self.sws = Search(self.driver)
+        self.log.info("Input Search Item")
+        self.sws.search_input('    ')
+        self.log.info("Click on search button")
+        self.sws.search_button()
+        assert self.driver.find_element(By.XPATH, "//div[@class='no-result']").text == ("Search term minimum length is "
+                                                                                        "3 characters")

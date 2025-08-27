@@ -453,3 +453,65 @@
 2025-07-11 10:10:31,490 : TestSearchFunctionality : test_search_invalid_product : 44 : Opening Browser 
 2025-07-11 10:10:31,490 : TestSearchFunctionality : test_search_invalid_product : 46 : Input Search Item 
 2025-07-11 10:10:34,686 : TestSearchFunctionality : test_search_invalid_product : 48 : Click on search button 
+2025-07-14 09:03:25,331 : TestSearchFunctionality : test_search_valid_product : 16 : Opening Browser 
+2025-07-14 09:03:25,333 : TestSearchFunctionality : test_search_valid_product : 18 : Input Search Item 
+2025-07-14 09:03:28,506 : TestSearchFunctionality : test_search_valid_product : 20 : Click on search button 
+2025-07-14 09:03:42,726 : TestSearchFunctionality : test_search_empty_input : 27 : Opening Browser 
+2025-07-14 09:03:42,726 : TestSearchFunctionality : test_search_empty_input : 29 : Input Search Item 
+2025-07-14 09:03:45,905 : TestSearchFunctionality : test_search_empty_input : 31 : Click on search button 
+2025-07-14 09:04:00,559 : TestSearchFunctionality : test_search_invalid_product : 44 : Opening Browser 
+2025-07-14 09:04:00,559 : TestSearchFunctionality : test_search_invalid_product : 46 : Input Search Item 
+2025-07-14 09:04:03,726 : TestSearchFunctionality : test_search_invalid_product : 48 : Click on search button 
+2025-07-14 09:04:17,709 : TestSearchFunctionality : test_search_partial_keyword : 55 : Opening Browser 
+2025-07-14 09:04:17,709 : TestSearchFunctionality : test_search_partial_keyword : 57 : Input Search Item 
+2025-07-14 09:04:20,860 : TestSearchFunctionality : test_search_partial_keyword : 59 : Click on search button 
+2025-07-14 09:04:34,179 : TestSearchFunctionality : test_search_special_keyword : 65 : Opening Browser 
+2025-07-14 09:04:34,179 : TestSearchFunctionality : test_search_special_keyword : 67 : Input Search Item 
+2025-07-14 09:04:37,320 : TestSearchFunctionality : test_search_special_keyword : 69 : Click on search button 
+2025-07-14 09:04:51,454 : TestSearchFunctionality : test_search_whitespace : 76 : Opening Browser 
+2025-07-14 09:04:51,455 : TestSearchFunctionality : test_search_whitespace : 78 : Input Search Item 
+2025-07-14 09:04:54,604 : TestSearchFunctionality : test_search_whitespace : 80 : Click on search button 
+2025-07-15 10:01:13,053 : Test_Product_filter : test_filter_product_by_price : 15 : Opening Browser 
+2025-07-15 10:01:13,055 : Test_Product_filter : test_filter_product_by_price : 18 : Search product laptop 
+2025-07-15 10:01:16,246 : Test_Product_filter : test_filter_product_by_price : 20 : Click on search button 
+2025-07-15 10:01:16,483 : Test_Product_filter : test_filter_product_by_price : 22 : adjust to set price slider between $500-$1400 
+2025-07-15 10:02:28,613 : Test_Product_filter : test_filter_product_by_price : 15 : Opening Browser 
+2025-07-15 10:02:28,613 : Test_Product_filter : test_filter_product_by_price : 18 : Search product laptop 
+2025-07-15 10:02:31,746 : Test_Product_filter : test_filter_product_by_price : 20 : Click on search button 
+2025-07-15 10:02:32,035 : Test_Product_filter : test_filter_product_by_price : 22 : adjust to set price slider between $500-$1400 
+2025-07-15 10:04:28,629 : Test_Product_filter : test_filter_product_by_price : 15 : Opening Browser 
+2025-07-15 10:04:28,629 : Test_Product_filter : test_filter_product_by_price : 18 : Search product laptop 
+2025-07-15 10:04:28,629 : Test_Product_filter : test_filter_product_by_price : 20 : Click on search button 
+2025-07-15 10:04:28,630 : Test_Product_filter : test_filter_product_by_price : 22 : adjust to set price slider between $500-$1400 
+2025-07-15 10:06:22,432 : Test_Product_filter : test_filter_product_by_price : 15 : Opening Browser 
+2025-07-15 10:06:22,433 : Test_Product_filter : test_filter_product_by_price : 18 : Search product laptop 
+2025-07-15 10:06:22,433 : Test_Product_filter : test_filter_product_by_price : 20 : Click on search button 
+2025-07-15 10:06:22,433 : Test_Product_filter : test_filter_product_by_price : 22 : adjust to set price slider between $500-$1400 
+2025-07-15 10:28:28,930 : Test_Product_filter : test_filter_product_by_price : 15 : Opening Browser 
+2025-07-15 10:28:28,934 : Test_Product_filter : test_filter_product_by_price : 18 : Search product laptop 
+2025-07-15 10:28:28,934 : Test_Product_filter : test_filter_product_by_price : 20 : Click on search button 
+2025-07-15 10:28:28,934 : Test_Product_filter : test_filter_product_by_price : 22 : adjust to set price slider between $500-$1400 
+2025-07-15 10:29:12,993 : Test_Product_filter : test_filter_product_by_price : 15 : Opening Browser 
+2025-07-15 10:29:12,994 : Test_Product_filter : test_filter_product_by_price : 18 : Search product laptop 
+2025-07-15 10:29:12,994 : Test_Product_filter : test_filter_product_by_price : 20 : Click on search button 
+2025-07-15 10:29:12,994 : Test_Product_filter : test_filter_product_by_price : 22 : adjust to set price slider between $500-$1400 
+2025-07-15 10:30:12,600 : Test_Product_filter : test_filter_product_by_price : 15 : Opening Browser 
+2025-07-15 10:30:12,601 : Test_Product_filter : test_filter_product_by_price : 18 : Search product laptop 
+2025-07-15 10:30:12,601 : Test_Product_filter : test_filter_product_by_price : 20 : Click on search button 
+2025-07-15 10:30:12,602 : Test_Product_filter : test_filter_product_by_price : 22 : adjust to set price slider between $500-$1400 
+2025-08-27 14:12:23,167 : Test_login : test_login_002 : 17 : Opening browser with NopCommerce website 
+2025-08-27 14:12:23,167 : Test_login : test_login_002 : 19 : Click on login tab/link 
+2025-08-27 14:12:24,673 : Test_login : test_login_002 : 21 : Enter email akhman@gmail.com and password Akh123 
+2025-08-27 14:12:24,841 : Test_login : test_login_002 : 23 : Click on Login button 
+2025-08-27 14:12:28,126 : Test_login : test_login_002 : 17 : Opening browser with NopCommerce website 
+2025-08-27 14:12:28,126 : Test_login : test_login_002 : 19 : Click on login tab/link 
+2025-08-27 14:12:29,058 : Test_login : test_login_002 : 21 : Enter email akhman@gmail.com and password akh123 
+2025-08-27 14:12:29,503 : Test_login : test_login_002 : 23 : Click on Login button 
+2025-08-27 14:12:32,231 : Test_login : test_login_002 : 17 : Opening browser with NopCommerce website 
+2025-08-27 14:12:32,231 : Test_login : test_login_002 : 19 : Click on login tab/link 
+2025-08-27 14:12:33,630 : Test_login : test_login_002 : 21 : Enter email ak@gmail.com and password Akh123 
+2025-08-27 14:12:33,779 : Test_login : test_login_002 : 23 : Click on Login button 
+2025-08-27 14:12:36,353 : Test_login : test_login_002 : 17 : Opening browser with NopCommerce website 
+2025-08-27 14:12:36,354 : Test_login : test_login_002 : 19 : Click on login tab/link 
+2025-08-27 14:12:37,450 : Test_login : test_login_002 : 21 : Enter email akhm@gmail.com and password ak123 
+2025-08-27 14:12:37,790 : Test_login : test_login_002 : 23 : Click on Login button 

@@ -31,6 +31,6 @@ def setup(browser):
         chrome_option.add_argument("--disable-dev-shm-usage")
         driver = webdriver.Chrome(options=chrome_option)
     driver.maximize_window()
-    driver.get("https://demo.nopcommerce.com/")
+    driver.get("https://demo.nopcommerce.com/search?q=laptop")
     yield driver
     driver.close()
